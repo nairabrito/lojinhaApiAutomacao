@@ -1,4 +1,4 @@
 # lojinhaApiAutomacao
 
- Automação da API da Lojinha utilizando a biblioteca RetAssured.
+ Automação da API da Lojinha utilizando a biblioteca RestAssured.
  
